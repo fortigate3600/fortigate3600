@@ -1,6 +1,7 @@
 # 👨‍💻 About Me
 
-Hello World!\n I have a degree in computer engineering, and i'm currently studying **Cybersecurity** at Sapienza.  
+printf("Hello World!\n");
+I have a degree in computer engineering, and i'm currently studying **Cybersecurity** at Sapienza.  
 I'm passionate about **penetration testing** and ethical hacking.
 
 ---
