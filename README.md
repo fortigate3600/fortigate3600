@@ -7,7 +7,6 @@ I'm passionate about **penetration testing** and ethical hacking.
 
 to contact me:
 - federico.angarella@gmail.com
-- angarella.1985968@studenti.uniroma1.it
 ---
 
 ## Current Project
